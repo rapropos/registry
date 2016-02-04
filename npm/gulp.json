@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.8.0": "github:typings/typed-gulp#386cb72c8f3d2118d7bca81898e4262403b4233c"
+  }
+}
